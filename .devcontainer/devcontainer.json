@@ -40,7 +40,7 @@
     "codespaces": {
       "repositories": {
         // allow Codespaces to pull from separate repo when user has access
-        "gitasddsenaxxaax": {
+        "gitasddsen/axxaax": {
           "permissions": {
             "contents": "write"
           }
